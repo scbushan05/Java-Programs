@@ -1,6 +1,6 @@
 # Java-Programs
 
-Java programs on Arrays, Strings, Collections, Patterns and many more.
+These are the Java interview programs on Arrays, Strings, Collections, Patterns and many more.
 
 1. Given an integer array, sort them in ascending order(bubble sort)
 
