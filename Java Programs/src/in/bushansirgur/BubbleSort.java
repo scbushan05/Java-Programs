@@ -11,7 +11,7 @@ import java.util.Arrays;
  * */
 public class BubbleSort {
 	public static void main(String[] args) {
-		int a[] = {5, 2, 1, 8, 9, 4, 6, 0};
+		int a[] = {2, 9, 7, 1, 0, 6, 4, 1};
 		System.out.println(Arrays.toString(bubbleSort(a)));
 	}
 	public static int[] bubbleSort(int a[]) {
